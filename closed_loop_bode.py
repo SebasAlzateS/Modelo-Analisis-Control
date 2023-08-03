@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 28 11:32:09 2022
 
-@author: Sergio
+@author: Sebastián Alzate
 """
 import control
 import matplotlib.pyplot as plt
