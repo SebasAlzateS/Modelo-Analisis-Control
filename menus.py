@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 27 12:10:04 2022
 
-@author: Sergio
+@author: Sebastián Alzate
 """
 
 menu1 = """ 
