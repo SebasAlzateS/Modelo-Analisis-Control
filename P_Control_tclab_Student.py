@@ -11,7 +11,7 @@ Función de Transferencia Discreta:
 G(z) = z^(-2) * ---------------------   Ts = 8
                     z - 0.9475
     
-@author: Sergio A. Castaño Giraldo
+@author: Sebastián Alzate
 """
 import numpy as np
 import matplotlib.pyplot as plt
