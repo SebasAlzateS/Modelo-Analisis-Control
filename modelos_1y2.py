@@ -2,7 +2,7 @@
 """
 Estimación de una funcion de transferencia de primer y segundo orden 
 
-@author: jgallon
+@author: Sebastián Alzate
 """
 
 from control.matlab import *
